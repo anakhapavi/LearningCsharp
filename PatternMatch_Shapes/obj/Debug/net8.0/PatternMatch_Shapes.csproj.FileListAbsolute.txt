@@ -1,0 +1,15 @@
+D:\Advanced Language Features\PatternMAtch_Shapes\bin\Debug\net8.0\PatternMatch_Shapes.exe
+D:\Advanced Language Features\PatternMAtch_Shapes\bin\Debug\net8.0\PatternMatch_Shapes.deps.json
+D:\Advanced Language Features\PatternMAtch_Shapes\bin\Debug\net8.0\PatternMatch_Shapes.runtimeconfig.json
+D:\Advanced Language Features\PatternMAtch_Shapes\bin\Debug\net8.0\PatternMatch_Shapes.dll
+D:\Advanced Language Features\PatternMAtch_Shapes\bin\Debug\net8.0\PatternMatch_Shapes.pdb
+D:\Advanced Language Features\PatternMAtch_Shapes\obj\Debug\net8.0\PatternMatch_Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced Language Features\PatternMAtch_Shapes\obj\Debug\net8.0\PatternMatch_Shapes.AssemblyInfoInputs.cache
+D:\Advanced Language Features\PatternMAtch_Shapes\obj\Debug\net8.0\PatternMatch_Shapes.AssemblyInfo.cs
+D:\Advanced Language Features\PatternMAtch_Shapes\obj\Debug\net8.0\PatternMatch_Shapes.csproj.CoreCompileInputs.cache
+D:\Advanced Language Features\PatternMAtch_Shapes\obj\Debug\net8.0\PatternMatch_Shapes.sourcelink.json
+D:\Advanced Language Features\PatternMAtch_Shapes\obj\Debug\net8.0\PatternMatch_Shapes.dll
+D:\Advanced Language Features\PatternMAtch_Shapes\obj\Debug\net8.0\refint\PatternMatch_Shapes.dll
+D:\Advanced Language Features\PatternMAtch_Shapes\obj\Debug\net8.0\PatternMatch_Shapes.pdb
+D:\Advanced Language Features\PatternMAtch_Shapes\obj\Debug\net8.0\PatternMatch_Shapes.genruntimeconfig.cache
+D:\Advanced Language Features\PatternMAtch_Shapes\obj\Debug\net8.0\ref\PatternMatch_Shapes.dll

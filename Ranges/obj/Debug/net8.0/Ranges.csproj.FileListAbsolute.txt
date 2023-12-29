@@ -1,0 +1,14 @@
+D:\Advanced Language Features\Ranges\bin\Debug\net8.0\Ranges.exe
+D:\Advanced Language Features\Ranges\bin\Debug\net8.0\Ranges.deps.json
+D:\Advanced Language Features\Ranges\bin\Debug\net8.0\Ranges.runtimeconfig.json
+D:\Advanced Language Features\Ranges\bin\Debug\net8.0\Ranges.dll
+D:\Advanced Language Features\Ranges\bin\Debug\net8.0\Ranges.pdb
+D:\Advanced Language Features\Ranges\obj\Debug\net8.0\Ranges.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced Language Features\Ranges\obj\Debug\net8.0\Ranges.AssemblyInfoInputs.cache
+D:\Advanced Language Features\Ranges\obj\Debug\net8.0\Ranges.AssemblyInfo.cs
+D:\Advanced Language Features\Ranges\obj\Debug\net8.0\Ranges.csproj.CoreCompileInputs.cache
+D:\Advanced Language Features\Ranges\obj\Debug\net8.0\Ranges.dll
+D:\Advanced Language Features\Ranges\obj\Debug\net8.0\refint\Ranges.dll
+D:\Advanced Language Features\Ranges\obj\Debug\net8.0\Ranges.pdb
+D:\Advanced Language Features\Ranges\obj\Debug\net8.0\Ranges.genruntimeconfig.cache
+D:\Advanced Language Features\Ranges\obj\Debug\net8.0\ref\Ranges.dll

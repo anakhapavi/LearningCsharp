@@ -1,0 +1,15 @@
+D:\Advanced Language Features\PropertyPatterns\bin\Debug\net8.0\ProperyPatterns.exe
+D:\Advanced Language Features\PropertyPatterns\bin\Debug\net8.0\ProperyPatterns.deps.json
+D:\Advanced Language Features\PropertyPatterns\bin\Debug\net8.0\ProperyPatterns.runtimeconfig.json
+D:\Advanced Language Features\PropertyPatterns\bin\Debug\net8.0\ProperyPatterns.dll
+D:\Advanced Language Features\PropertyPatterns\bin\Debug\net8.0\ProperyPatterns.pdb
+D:\Advanced Language Features\PropertyPatterns\obj\Debug\net8.0\ProperyPatterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced Language Features\PropertyPatterns\obj\Debug\net8.0\ProperyPatterns.AssemblyInfoInputs.cache
+D:\Advanced Language Features\PropertyPatterns\obj\Debug\net8.0\ProperyPatterns.AssemblyInfo.cs
+D:\Advanced Language Features\PropertyPatterns\obj\Debug\net8.0\ProperyPatterns.csproj.CoreCompileInputs.cache
+D:\Advanced Language Features\PropertyPatterns\obj\Debug\net8.0\ProperyPatterns.sourcelink.json
+D:\Advanced Language Features\PropertyPatterns\obj\Debug\net8.0\ProperyPatterns.dll
+D:\Advanced Language Features\PropertyPatterns\obj\Debug\net8.0\refint\ProperyPatterns.dll
+D:\Advanced Language Features\PropertyPatterns\obj\Debug\net8.0\ProperyPatterns.pdb
+D:\Advanced Language Features\PropertyPatterns\obj\Debug\net8.0\ProperyPatterns.genruntimeconfig.cache
+D:\Advanced Language Features\PropertyPatterns\obj\Debug\net8.0\ref\ProperyPatterns.dll
