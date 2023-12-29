@@ -1,0 +1,15 @@
+D:\Advanced Language Features\RecordType\obj\Debug\net8.0\RecordType.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced Language Features\RecordType\obj\Debug\net8.0\RecordType.AssemblyInfoInputs.cache
+D:\Advanced Language Features\RecordType\obj\Debug\net8.0\RecordType.AssemblyInfo.cs
+D:\Advanced Language Features\RecordType\obj\Debug\net8.0\RecordType.csproj.CoreCompileInputs.cache
+D:\Advanced Language Features\RecordType\obj\Debug\net8.0\RecordType.sourcelink.json
+d:\Advanced Language Features\RecordType\bin\Debug\net8.0\RecordType.exe
+d:\Advanced Language Features\RecordType\bin\Debug\net8.0\RecordType.deps.json
+d:\Advanced Language Features\RecordType\bin\Debug\net8.0\RecordType.runtimeconfig.json
+d:\Advanced Language Features\RecordType\bin\Debug\net8.0\RecordType.dll
+d:\Advanced Language Features\RecordType\bin\Debug\net8.0\RecordType.pdb
+d:\Advanced Language Features\RecordType\obj\Debug\net8.0\RecordType.dll
+d:\Advanced Language Features\RecordType\obj\Debug\net8.0\refint\RecordType.dll
+d:\Advanced Language Features\RecordType\obj\Debug\net8.0\RecordType.pdb
+d:\Advanced Language Features\RecordType\obj\Debug\net8.0\RecordType.genruntimeconfig.cache
+d:\Advanced Language Features\RecordType\obj\Debug\net8.0\ref\RecordType.dll

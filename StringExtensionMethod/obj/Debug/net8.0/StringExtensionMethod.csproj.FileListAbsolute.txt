@@ -1,0 +1,14 @@
+D:\Advanced Language Features\StringExtensionMethod\bin\Debug\net8.0\StringExtensionMethod.exe
+D:\Advanced Language Features\StringExtensionMethod\bin\Debug\net8.0\StringExtensionMethod.deps.json
+D:\Advanced Language Features\StringExtensionMethod\bin\Debug\net8.0\StringExtensionMethod.runtimeconfig.json
+D:\Advanced Language Features\StringExtensionMethod\bin\Debug\net8.0\StringExtensionMethod.dll
+D:\Advanced Language Features\StringExtensionMethod\bin\Debug\net8.0\StringExtensionMethod.pdb
+D:\Advanced Language Features\StringExtensionMethod\obj\Debug\net8.0\StringExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced Language Features\StringExtensionMethod\obj\Debug\net8.0\StringExtensionMethod.AssemblyInfoInputs.cache
+D:\Advanced Language Features\StringExtensionMethod\obj\Debug\net8.0\StringExtensionMethod.AssemblyInfo.cs
+D:\Advanced Language Features\StringExtensionMethod\obj\Debug\net8.0\StringExtensionMethod.csproj.CoreCompileInputs.cache
+D:\Advanced Language Features\StringExtensionMethod\obj\Debug\net8.0\StringExtensionMethod.dll
+D:\Advanced Language Features\StringExtensionMethod\obj\Debug\net8.0\refint\StringExtensionMethod.dll
+D:\Advanced Language Features\StringExtensionMethod\obj\Debug\net8.0\StringExtensionMethod.pdb
+D:\Advanced Language Features\StringExtensionMethod\obj\Debug\net8.0\StringExtensionMethod.genruntimeconfig.cache
+D:\Advanced Language Features\StringExtensionMethod\obj\Debug\net8.0\ref\StringExtensionMethod.dll

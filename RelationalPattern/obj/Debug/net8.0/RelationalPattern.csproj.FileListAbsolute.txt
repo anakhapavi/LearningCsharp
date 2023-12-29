@@ -1,0 +1,15 @@
+D:\Advanced Language Features\RelationalPattern\obj\Debug\net8.0\RelationalPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced Language Features\RelationalPattern\obj\Debug\net8.0\RelationalPattern.AssemblyInfoInputs.cache
+D:\Advanced Language Features\RelationalPattern\obj\Debug\net8.0\RelationalPattern.AssemblyInfo.cs
+D:\Advanced Language Features\RelationalPattern\obj\Debug\net8.0\RelationalPattern.csproj.CoreCompileInputs.cache
+D:\Advanced Language Features\RelationalPattern\obj\Debug\net8.0\RelationalPattern.sourcelink.json
+D:\Advanced Language Features\RelationalPattern\bin\Debug\net8.0\RelationalPattern.exe
+D:\Advanced Language Features\RelationalPattern\bin\Debug\net8.0\RelationalPattern.deps.json
+D:\Advanced Language Features\RelationalPattern\bin\Debug\net8.0\RelationalPattern.runtimeconfig.json
+D:\Advanced Language Features\RelationalPattern\bin\Debug\net8.0\RelationalPattern.dll
+D:\Advanced Language Features\RelationalPattern\bin\Debug\net8.0\RelationalPattern.pdb
+D:\Advanced Language Features\RelationalPattern\obj\Debug\net8.0\RelationalPattern.dll
+D:\Advanced Language Features\RelationalPattern\obj\Debug\net8.0\refint\RelationalPattern.dll
+D:\Advanced Language Features\RelationalPattern\obj\Debug\net8.0\RelationalPattern.pdb
+D:\Advanced Language Features\RelationalPattern\obj\Debug\net8.0\RelationalPattern.genruntimeconfig.cache
+D:\Advanced Language Features\RelationalPattern\obj\Debug\net8.0\ref\RelationalPattern.dll
