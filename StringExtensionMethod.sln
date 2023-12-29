@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringExtensionMethod", "StringExtensionMethod\StringExtensionMethod.csproj", "{9BE1FBD9-E241-4812-8B45-8667631E1B10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{8495D616-AEFF-4A46-A279-77D13C569FDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerable", "IEnumerable\IEnumerable.csproj", "{D455146B-9EEF-44B0-91AC-A0AD1E799A6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BE1FBD9-E241-4812-8B45-8667631E1B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE1FBD9-E241-4812-8B45-8667631E1B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE1FBD9-E241-4812-8B45-8667631E1B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE1FBD9-E241-4812-8B45-8667631E1B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8495D616-AEFF-4A46-A279-77D13C569FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8495D616-AEFF-4A46-A279-77D13C569FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8495D616-AEFF-4A46-A279-77D13C569FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8495D616-AEFF-4A46-A279-77D13C569FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D455146B-9EEF-44B0-91AC-A0AD1E799A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D455146B-9EEF-44B0-91AC-A0AD1E799A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D455146B-9EEF-44B0-91AC-A0AD1E799A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D455146B-9EEF-44B0-91AC-A0AD1E799A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
