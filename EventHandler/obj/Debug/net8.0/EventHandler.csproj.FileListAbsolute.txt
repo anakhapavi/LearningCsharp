@@ -1,0 +1,14 @@
+D:\Advanced Language Features\EventHandler\bin\Debug\net8.0\EventHandler.exe
+D:\Advanced Language Features\EventHandler\bin\Debug\net8.0\EventHandler.deps.json
+D:\Advanced Language Features\EventHandler\bin\Debug\net8.0\EventHandler.runtimeconfig.json
+D:\Advanced Language Features\EventHandler\bin\Debug\net8.0\EventHandler.dll
+D:\Advanced Language Features\EventHandler\bin\Debug\net8.0\EventHandler.pdb
+D:\Advanced Language Features\EventHandler\obj\Debug\net8.0\EventHandler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced Language Features\EventHandler\obj\Debug\net8.0\EventHandler.AssemblyInfoInputs.cache
+D:\Advanced Language Features\EventHandler\obj\Debug\net8.0\EventHandler.AssemblyInfo.cs
+D:\Advanced Language Features\EventHandler\obj\Debug\net8.0\EventHandler.csproj.CoreCompileInputs.cache
+D:\Advanced Language Features\EventHandler\obj\Debug\net8.0\EventHandler.dll
+D:\Advanced Language Features\EventHandler\obj\Debug\net8.0\refint\EventHandler.dll
+D:\Advanced Language Features\EventHandler\obj\Debug\net8.0\EventHandler.pdb
+D:\Advanced Language Features\EventHandler\obj\Debug\net8.0\EventHandler.genruntimeconfig.cache
+D:\Advanced Language Features\EventHandler\obj\Debug\net8.0\ref\EventHandler.dll
