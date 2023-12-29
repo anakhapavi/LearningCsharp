@@ -1,0 +1,14 @@
+D:\Asynchronous Programming\Parallel\bin\Debug\net8.0\Parallel.exe
+D:\Asynchronous Programming\Parallel\bin\Debug\net8.0\Parallel.deps.json
+D:\Asynchronous Programming\Parallel\bin\Debug\net8.0\Parallel.runtimeconfig.json
+D:\Asynchronous Programming\Parallel\bin\Debug\net8.0\Parallel.dll
+D:\Asynchronous Programming\Parallel\bin\Debug\net8.0\Parallel.pdb
+D:\Asynchronous Programming\Parallel\obj\Debug\net8.0\Parallel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asynchronous Programming\Parallel\obj\Debug\net8.0\Parallel.AssemblyInfoInputs.cache
+D:\Asynchronous Programming\Parallel\obj\Debug\net8.0\Parallel.AssemblyInfo.cs
+D:\Asynchronous Programming\Parallel\obj\Debug\net8.0\Parallel.csproj.CoreCompileInputs.cache
+D:\Asynchronous Programming\Parallel\obj\Debug\net8.0\Parallel.dll
+D:\Asynchronous Programming\Parallel\obj\Debug\net8.0\refint\Parallel.dll
+D:\Asynchronous Programming\Parallel\obj\Debug\net8.0\Parallel.pdb
+D:\Asynchronous Programming\Parallel\obj\Debug\net8.0\Parallel.genruntimeconfig.cache
+D:\Asynchronous Programming\Parallel\obj\Debug\net8.0\ref\Parallel.dll

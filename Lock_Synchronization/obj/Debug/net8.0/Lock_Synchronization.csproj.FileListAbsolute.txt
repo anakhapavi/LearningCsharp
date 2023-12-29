@@ -1,0 +1,14 @@
+D:\Asynchronous Programming\lock_Synchronization\bin\Debug\net8.0\Lock_Synchronization.exe
+D:\Asynchronous Programming\lock_Synchronization\bin\Debug\net8.0\Lock_Synchronization.deps.json
+D:\Asynchronous Programming\lock_Synchronization\bin\Debug\net8.0\Lock_Synchronization.runtimeconfig.json
+D:\Asynchronous Programming\lock_Synchronization\bin\Debug\net8.0\Lock_Synchronization.dll
+D:\Asynchronous Programming\lock_Synchronization\bin\Debug\net8.0\Lock_Synchronization.pdb
+D:\Asynchronous Programming\lock_Synchronization\obj\Debug\net8.0\Lock_Synchronization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asynchronous Programming\lock_Synchronization\obj\Debug\net8.0\Lock_Synchronization.AssemblyInfoInputs.cache
+D:\Asynchronous Programming\lock_Synchronization\obj\Debug\net8.0\Lock_Synchronization.AssemblyInfo.cs
+D:\Asynchronous Programming\lock_Synchronization\obj\Debug\net8.0\Lock_Synchronization.csproj.CoreCompileInputs.cache
+D:\Asynchronous Programming\lock_Synchronization\obj\Debug\net8.0\Lock_Synchronization.dll
+D:\Asynchronous Programming\lock_Synchronization\obj\Debug\net8.0\refint\Lock_Synchronization.dll
+D:\Asynchronous Programming\lock_Synchronization\obj\Debug\net8.0\Lock_Synchronization.pdb
+D:\Asynchronous Programming\lock_Synchronization\obj\Debug\net8.0\Lock_Synchronization.genruntimeconfig.cache
+D:\Asynchronous Programming\lock_Synchronization\obj\Debug\net8.0\ref\Lock_Synchronization.dll

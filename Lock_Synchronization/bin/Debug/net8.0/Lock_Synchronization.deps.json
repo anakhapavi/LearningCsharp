@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lock_Synchronization/1.0.0": {
+        "runtime": {
+          "Lock_Synchronization.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lock_Synchronization/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

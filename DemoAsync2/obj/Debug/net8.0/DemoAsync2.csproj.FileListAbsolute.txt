@@ -1,0 +1,14 @@
+D:\Asynchronous Programming\DemoAsync2\bin\Debug\net8.0\DemoAsync2.exe
+D:\Asynchronous Programming\DemoAsync2\bin\Debug\net8.0\DemoAsync2.deps.json
+D:\Asynchronous Programming\DemoAsync2\bin\Debug\net8.0\DemoAsync2.runtimeconfig.json
+D:\Asynchronous Programming\DemoAsync2\bin\Debug\net8.0\DemoAsync2.dll
+D:\Asynchronous Programming\DemoAsync2\bin\Debug\net8.0\DemoAsync2.pdb
+D:\Asynchronous Programming\DemoAsync2\obj\Debug\net8.0\DemoAsync2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asynchronous Programming\DemoAsync2\obj\Debug\net8.0\DemoAsync2.AssemblyInfoInputs.cache
+D:\Asynchronous Programming\DemoAsync2\obj\Debug\net8.0\DemoAsync2.AssemblyInfo.cs
+D:\Asynchronous Programming\DemoAsync2\obj\Debug\net8.0\DemoAsync2.csproj.CoreCompileInputs.cache
+D:\Asynchronous Programming\DemoAsync2\obj\Debug\net8.0\DemoAsync2.dll
+D:\Asynchronous Programming\DemoAsync2\obj\Debug\net8.0\refint\DemoAsync2.dll
+D:\Asynchronous Programming\DemoAsync2\obj\Debug\net8.0\DemoAsync2.pdb
+D:\Asynchronous Programming\DemoAsync2\obj\Debug\net8.0\DemoAsync2.genruntimeconfig.cache
+D:\Asynchronous Programming\DemoAsync2\obj\Debug\net8.0\ref\DemoAsync2.dll
