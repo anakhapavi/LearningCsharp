@@ -1,0 +1,14 @@
+D:\Asynchronous Programming\CancellationToken\bin\Debug\net8.0\CancellationToken.exe
+D:\Asynchronous Programming\CancellationToken\bin\Debug\net8.0\CancellationToken.deps.json
+D:\Asynchronous Programming\CancellationToken\bin\Debug\net8.0\CancellationToken.runtimeconfig.json
+D:\Asynchronous Programming\CancellationToken\bin\Debug\net8.0\CancellationToken.dll
+D:\Asynchronous Programming\CancellationToken\bin\Debug\net8.0\CancellationToken.pdb
+D:\Asynchronous Programming\CancellationToken\obj\Debug\net8.0\CancellationToken.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asynchronous Programming\CancellationToken\obj\Debug\net8.0\CancellationToken.AssemblyInfoInputs.cache
+D:\Asynchronous Programming\CancellationToken\obj\Debug\net8.0\CancellationToken.AssemblyInfo.cs
+D:\Asynchronous Programming\CancellationToken\obj\Debug\net8.0\CancellationToken.csproj.CoreCompileInputs.cache
+D:\Asynchronous Programming\CancellationToken\obj\Debug\net8.0\CancellationToken.dll
+D:\Asynchronous Programming\CancellationToken\obj\Debug\net8.0\refint\CancellationToken.dll
+D:\Asynchronous Programming\CancellationToken\obj\Debug\net8.0\CancellationToken.pdb
+D:\Asynchronous Programming\CancellationToken\obj\Debug\net8.0\CancellationToken.genruntimeconfig.cache
+D:\Asynchronous Programming\CancellationToken\obj\Debug\net8.0\ref\CancellationToken.dll

@@ -1,0 +1,14 @@
+D:\Asynchronous Programming\ConcurrentBag\bin\Debug\net8.0\ConcurrentBag.exe
+D:\Asynchronous Programming\ConcurrentBag\bin\Debug\net8.0\ConcurrentBag.deps.json
+D:\Asynchronous Programming\ConcurrentBag\bin\Debug\net8.0\ConcurrentBag.runtimeconfig.json
+D:\Asynchronous Programming\ConcurrentBag\bin\Debug\net8.0\ConcurrentBag.dll
+D:\Asynchronous Programming\ConcurrentBag\bin\Debug\net8.0\ConcurrentBag.pdb
+D:\Asynchronous Programming\ConcurrentBag\obj\Debug\net8.0\ConcurrentBag.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asynchronous Programming\ConcurrentBag\obj\Debug\net8.0\ConcurrentBag.AssemblyInfoInputs.cache
+D:\Asynchronous Programming\ConcurrentBag\obj\Debug\net8.0\ConcurrentBag.AssemblyInfo.cs
+D:\Asynchronous Programming\ConcurrentBag\obj\Debug\net8.0\ConcurrentBag.csproj.CoreCompileInputs.cache
+D:\Asynchronous Programming\ConcurrentBag\obj\Debug\net8.0\ConcurrentBag.dll
+D:\Asynchronous Programming\ConcurrentBag\obj\Debug\net8.0\refint\ConcurrentBag.dll
+D:\Asynchronous Programming\ConcurrentBag\obj\Debug\net8.0\ConcurrentBag.pdb
+D:\Asynchronous Programming\ConcurrentBag\obj\Debug\net8.0\ConcurrentBag.genruntimeconfig.cache
+D:\Asynchronous Programming\ConcurrentBag\obj\Debug\net8.0\ref\ConcurrentBag.dll
