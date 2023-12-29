@@ -1,0 +1,14 @@
+D:\Advanced Language Features\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.exe
+D:\Advanced Language Features\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.deps.json
+D:\Advanced Language Features\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.runtimeconfig.json
+D:\Advanced Language Features\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.dll
+D:\Advanced Language Features\MulticastDelegate\bin\Debug\net8.0\MulticastDelegate.pdb
+D:\Advanced Language Features\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced Language Features\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.AssemblyInfoInputs.cache
+D:\Advanced Language Features\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.AssemblyInfo.cs
+D:\Advanced Language Features\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.csproj.CoreCompileInputs.cache
+D:\Advanced Language Features\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.dll
+D:\Advanced Language Features\MulticastDelegate\obj\Debug\net8.0\refint\MulticastDelegate.dll
+D:\Advanced Language Features\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.pdb
+D:\Advanced Language Features\MulticastDelegate\obj\Debug\net8.0\MulticastDelegate.genruntimeconfig.cache
+D:\Advanced Language Features\MulticastDelegate\obj\Debug\net8.0\ref\MulticastDelegate.dll
