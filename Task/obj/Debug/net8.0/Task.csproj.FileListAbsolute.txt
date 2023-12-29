@@ -1,0 +1,14 @@
+D:\Asynchronous Programming\Task\bin\Debug\net8.0\Task.exe
+D:\Asynchronous Programming\Task\bin\Debug\net8.0\Task.deps.json
+D:\Asynchronous Programming\Task\bin\Debug\net8.0\Task.runtimeconfig.json
+D:\Asynchronous Programming\Task\bin\Debug\net8.0\Task.dll
+D:\Asynchronous Programming\Task\bin\Debug\net8.0\Task.pdb
+D:\Asynchronous Programming\Task\obj\Debug\net8.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asynchronous Programming\Task\obj\Debug\net8.0\Task.AssemblyInfoInputs.cache
+D:\Asynchronous Programming\Task\obj\Debug\net8.0\Task.AssemblyInfo.cs
+D:\Asynchronous Programming\Task\obj\Debug\net8.0\Task.csproj.CoreCompileInputs.cache
+D:\Asynchronous Programming\Task\obj\Debug\net8.0\Task.dll
+D:\Asynchronous Programming\Task\obj\Debug\net8.0\refint\Task.dll
+D:\Asynchronous Programming\Task\obj\Debug\net8.0\Task.pdb
+D:\Asynchronous Programming\Task\obj\Debug\net8.0\Task.genruntimeconfig.cache
+D:\Asynchronous Programming\Task\obj\Debug\net8.0\ref\Task.dll

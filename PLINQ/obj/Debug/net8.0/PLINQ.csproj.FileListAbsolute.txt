@@ -1,0 +1,14 @@
+D:\Asynchronous Programming\PLINQ\bin\Debug\net8.0\PLINQ.exe
+D:\Asynchronous Programming\PLINQ\bin\Debug\net8.0\PLINQ.deps.json
+D:\Asynchronous Programming\PLINQ\bin\Debug\net8.0\PLINQ.runtimeconfig.json
+D:\Asynchronous Programming\PLINQ\bin\Debug\net8.0\PLINQ.dll
+D:\Asynchronous Programming\PLINQ\bin\Debug\net8.0\PLINQ.pdb
+D:\Asynchronous Programming\PLINQ\obj\Debug\net8.0\PLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asynchronous Programming\PLINQ\obj\Debug\net8.0\PLINQ.AssemblyInfoInputs.cache
+D:\Asynchronous Programming\PLINQ\obj\Debug\net8.0\PLINQ.AssemblyInfo.cs
+D:\Asynchronous Programming\PLINQ\obj\Debug\net8.0\PLINQ.csproj.CoreCompileInputs.cache
+D:\Asynchronous Programming\PLINQ\obj\Debug\net8.0\PLINQ.dll
+D:\Asynchronous Programming\PLINQ\obj\Debug\net8.0\refint\PLINQ.dll
+D:\Asynchronous Programming\PLINQ\obj\Debug\net8.0\PLINQ.pdb
+D:\Asynchronous Programming\PLINQ\obj\Debug\net8.0\PLINQ.genruntimeconfig.cache
+D:\Asynchronous Programming\PLINQ\obj\Debug\net8.0\ref\PLINQ.dll
