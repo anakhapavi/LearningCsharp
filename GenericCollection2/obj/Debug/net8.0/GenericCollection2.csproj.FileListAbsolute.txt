@@ -1,0 +1,14 @@
+D:\GenericCollection2\bin\Debug\net8.0\GenericCollection2.exe
+D:\GenericCollection2\bin\Debug\net8.0\GenericCollection2.deps.json
+D:\GenericCollection2\bin\Debug\net8.0\GenericCollection2.runtimeconfig.json
+D:\GenericCollection2\bin\Debug\net8.0\GenericCollection2.dll
+D:\GenericCollection2\bin\Debug\net8.0\GenericCollection2.pdb
+D:\GenericCollection2\obj\Debug\net8.0\GenericCollection2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenericCollection2\obj\Debug\net8.0\GenericCollection2.AssemblyInfoInputs.cache
+D:\GenericCollection2\obj\Debug\net8.0\GenericCollection2.AssemblyInfo.cs
+D:\GenericCollection2\obj\Debug\net8.0\GenericCollection2.csproj.CoreCompileInputs.cache
+D:\GenericCollection2\obj\Debug\net8.0\GenericCollection2.dll
+D:\GenericCollection2\obj\Debug\net8.0\refint\GenericCollection2.dll
+D:\GenericCollection2\obj\Debug\net8.0\GenericCollection2.pdb
+D:\GenericCollection2\obj\Debug\net8.0\GenericCollection2.genruntimeconfig.cache
+D:\GenericCollection2\obj\Debug\net8.0\ref\GenericCollection2.dll
