@@ -1,0 +1,5 @@
+D:\Advanced Language Features\obj\Debug\net8.0\Advanced Language Features.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced Language Features\obj\Debug\net8.0\Advanced Language Features.AssemblyInfoInputs.cache
+D:\Advanced Language Features\obj\Debug\net8.0\Advanced Language Features.AssemblyInfo.cs
+D:\Advanced Language Features\obj\Debug\net8.0\Advanced Language Features.csproj.CoreCompileInputs.cache
+D:\Advanced Language Features\obj\Debug\net8.0\Advanced Language Features.MvcApplicationPartsAssemblyInfo.cache
