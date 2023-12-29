@@ -1,0 +1,14 @@
+D:\Advanced Language Features\Delegate_eg3\obj\Debug\net8.0\Delegate_eg3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced Language Features\Delegate_eg3\obj\Debug\net8.0\Delegate_eg3.AssemblyInfoInputs.cache
+D:\Advanced Language Features\Delegate_eg3\obj\Debug\net8.0\Delegate_eg3.AssemblyInfo.cs
+D:\Advanced Language Features\Delegate_eg3\obj\Debug\net8.0\Delegate_eg3.csproj.CoreCompileInputs.cache
+d:\Advanced Language Features\Delegate_eg3\bin\Debug\net8.0\Delegate_eg3.exe
+d:\Advanced Language Features\Delegate_eg3\bin\Debug\net8.0\Delegate_eg3.deps.json
+d:\Advanced Language Features\Delegate_eg3\bin\Debug\net8.0\Delegate_eg3.runtimeconfig.json
+d:\Advanced Language Features\Delegate_eg3\bin\Debug\net8.0\Delegate_eg3.dll
+d:\Advanced Language Features\Delegate_eg3\bin\Debug\net8.0\Delegate_eg3.pdb
+d:\Advanced Language Features\Delegate_eg3\obj\Debug\net8.0\Delegate_eg3.dll
+d:\Advanced Language Features\Delegate_eg3\obj\Debug\net8.0\refint\Delegate_eg3.dll
+d:\Advanced Language Features\Delegate_eg3\obj\Debug\net8.0\Delegate_eg3.pdb
+d:\Advanced Language Features\Delegate_eg3\obj\Debug\net8.0\Delegate_eg3.genruntimeconfig.cache
+d:\Advanced Language Features\Delegate_eg3\obj\Debug\net8.0\ref\Delegate_eg3.dll
