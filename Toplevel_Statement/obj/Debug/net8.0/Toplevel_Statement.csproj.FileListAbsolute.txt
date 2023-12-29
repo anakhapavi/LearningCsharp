@@ -1,0 +1,14 @@
+D:\Advanced Language Features\Toplevel_Statement\bin\Debug\net8.0\Toplevel_Statement.exe
+D:\Advanced Language Features\Toplevel_Statement\bin\Debug\net8.0\Toplevel_Statement.deps.json
+D:\Advanced Language Features\Toplevel_Statement\bin\Debug\net8.0\Toplevel_Statement.runtimeconfig.json
+D:\Advanced Language Features\Toplevel_Statement\bin\Debug\net8.0\Toplevel_Statement.dll
+D:\Advanced Language Features\Toplevel_Statement\bin\Debug\net8.0\Toplevel_Statement.pdb
+D:\Advanced Language Features\Toplevel_Statement\obj\Debug\net8.0\Toplevel_Statement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced Language Features\Toplevel_Statement\obj\Debug\net8.0\Toplevel_Statement.AssemblyInfoInputs.cache
+D:\Advanced Language Features\Toplevel_Statement\obj\Debug\net8.0\Toplevel_Statement.AssemblyInfo.cs
+D:\Advanced Language Features\Toplevel_Statement\obj\Debug\net8.0\Toplevel_Statement.csproj.CoreCompileInputs.cache
+D:\Advanced Language Features\Toplevel_Statement\obj\Debug\net8.0\Toplevel_Statement.dll
+D:\Advanced Language Features\Toplevel_Statement\obj\Debug\net8.0\refint\Toplevel_Statement.dll
+D:\Advanced Language Features\Toplevel_Statement\obj\Debug\net8.0\Toplevel_Statement.pdb
+D:\Advanced Language Features\Toplevel_Statement\obj\Debug\net8.0\Toplevel_Statement.genruntimeconfig.cache
+D:\Advanced Language Features\Toplevel_Statement\obj\Debug\net8.0\ref\Toplevel_Statement.dll
