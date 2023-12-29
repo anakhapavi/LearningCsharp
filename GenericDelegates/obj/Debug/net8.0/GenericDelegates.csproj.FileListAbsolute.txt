@@ -1,0 +1,14 @@
+D:\Advanced Language Features\GenericDelegates\bin\Debug\net8.0\GenericDelegates.exe
+D:\Advanced Language Features\GenericDelegates\bin\Debug\net8.0\GenericDelegates.deps.json
+D:\Advanced Language Features\GenericDelegates\bin\Debug\net8.0\GenericDelegates.runtimeconfig.json
+D:\Advanced Language Features\GenericDelegates\bin\Debug\net8.0\GenericDelegates.dll
+D:\Advanced Language Features\GenericDelegates\bin\Debug\net8.0\GenericDelegates.pdb
+D:\Advanced Language Features\GenericDelegates\obj\Debug\net8.0\GenericDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced Language Features\GenericDelegates\obj\Debug\net8.0\GenericDelegates.AssemblyInfoInputs.cache
+D:\Advanced Language Features\GenericDelegates\obj\Debug\net8.0\GenericDelegates.AssemblyInfo.cs
+D:\Advanced Language Features\GenericDelegates\obj\Debug\net8.0\GenericDelegates.csproj.CoreCompileInputs.cache
+D:\Advanced Language Features\GenericDelegates\obj\Debug\net8.0\GenericDelegates.dll
+D:\Advanced Language Features\GenericDelegates\obj\Debug\net8.0\refint\GenericDelegates.dll
+D:\Advanced Language Features\GenericDelegates\obj\Debug\net8.0\GenericDelegates.pdb
+D:\Advanced Language Features\GenericDelegates\obj\Debug\net8.0\GenericDelegates.genruntimeconfig.cache
+D:\Advanced Language Features\GenericDelegates\obj\Debug\net8.0\ref\GenericDelegates.dll

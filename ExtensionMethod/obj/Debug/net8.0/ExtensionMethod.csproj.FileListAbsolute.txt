@@ -1,0 +1,14 @@
+D:\Advanced Language Features\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.exe
+D:\Advanced Language Features\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.deps.json
+D:\Advanced Language Features\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.runtimeconfig.json
+D:\Advanced Language Features\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.dll
+D:\Advanced Language Features\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.pdb
+D:\Advanced Language Features\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advanced Language Features\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfoInputs.cache
+D:\Advanced Language Features\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfo.cs
+D:\Advanced Language Features\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+D:\Advanced Language Features\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.dll
+D:\Advanced Language Features\ExtensionMethod\obj\Debug\net8.0\refint\ExtensionMethod.dll
+D:\Advanced Language Features\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.pdb
+D:\Advanced Language Features\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.genruntimeconfig.cache
+D:\Advanced Language Features\ExtensionMethod\obj\Debug\net8.0\ref\ExtensionMethod.dll
